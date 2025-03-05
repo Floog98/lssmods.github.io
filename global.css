@@ -1,0 +1,19 @@
+
+body {
+
+  background: url("BG.png");
+  background-position: top center;
+  background-size: 100%;
+  background-attachment: scroll;
+  background-repeat: repeat;
+  margin: 0;
+  flex: 1;
+  width: 450px;
+  padding: 12px;
+  overflow-x: hidden;
+}
+
+div.fixed {
+  position: absolute;
+  
+}
